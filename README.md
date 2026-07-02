@@ -1,10 +1,9 @@
-![Side B](./.github/banner.webp)
-
 # Side B
 
-CLI to mirror code across multiple repositories, geared for Roblox projects with
+Mirror code across Luau repositories, geared for Roblox projects with
 a variety of requirements like [Welcome To Hell](https://welcomestohell.com).
 
+![Side B](./.github/banner.webp)
 
 ## Usage
 
